@@ -1,5 +1,6 @@
 # CarRender - Renderização de Carro em 3D com Three.js e React.js
 
+![CarRender](https://figueirabarros.com.br/Screenshot_6.png)
 
 O CarRender é um projeto que combina as poderosas tecnologias Three.js e React.js para renderizar um carro em um ambiente 3D interativo. Ele oferece uma experiência imersiva ao permitir que os usuários visualizem o carro em diferentes ângulos e interajam com seus componentes.
 
