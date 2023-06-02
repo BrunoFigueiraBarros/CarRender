@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# CarRender - Renderização de Carro em 3D com Three.js e React.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+O CarRender é um projeto que combina as poderosas tecnologias Three.js e React.js para renderizar um carro em um ambiente 3D interativo. Ele oferece uma experiência imersiva ao permitir que os usuários visualizem o carro em diferentes ângulos e interajam com seus componentes.
 
-In the project directory, you can run:
+## Funcionalidades
 
-### `npm start`
+- Renderização 3D de um carro realista com detalhes precisos.
+- Exploração do carro em diferentes ângulos e zoom.
+- Interatividade com componentes do carro, como abrir portas, ligar faróis etc.
+- Interface intuitiva baseada em componentes React.js.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tecnologias Utilizadas
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Three.js: Biblioteca JavaScript para renderização 3D.
+- React.js: Biblioteca JavaScript para construção de interfaces de usuário.
+- HTML e CSS: Utilizados para a estruturação e estilização das páginas.
 
-### `npm test`
+## Instalação
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone este repositório em sua máquina local.
+2. Navegue até o diretório do projeto: `cd CarRender`.
+3. Instale as dependências do projeto: `npm install`.
+4. Inicie o servidor de desenvolvimento: `npm start`.
+5. Acesse o projeto no seu navegador em `http://localhost:3000`.
 
-### `npm run build`
+## Como Usar
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Na página inicial do CarRender, você verá o carro renderizado em 3D.
+2. Utilize os controles para girar o carro em diferentes ângulos.
+3. Interaja com os componentes do carro clicando neles.
+4. Experimente abrir as portas, ligar faróis e explorar outros recursos interativos disponíveis.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contribuição
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues relatando bugs, sugerir melhorias ou enviar pull requests com novos recursos ou correções de código.
 
-### `npm run eject`
+## Licença
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Email: bruno_figueira59@hotmail.com   
+- GitHub: [BrunoFigueiraBarros](https://github.com/BrunoFigueiraBarros)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contato
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Se tiver alguma dúvida ou quiser entrar em contato, você pode me encontrar em:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Email: seuemail@example.com
+- GitHub: [seuusername](https://github.com/seuusername)
