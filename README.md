@@ -45,5 +45,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues relatando
 
 Se tiver alguma dúvida ou quiser entrar em contato, você pode me encontrar em:
 
-- Email: seuemail@example.com
-- GitHub: [seuusername](https://github.com/seuusername)
+- Email: bruno_figueira59@hotmail.com   
+- GitHub: [BrunoFigueiraBarros](https://github.com/BrunoFigueiraBarros)
